@@ -9,11 +9,17 @@ The goal of this analysis is to explore the data, identify patterns, and underst
 🔹 1. Dataset Overview
 
 Total rows: 891
+
 Total columns: 12
+
 Target variable: Survived (0 = Did not survive, 1 = Survived)
+
 Features include:
+
 Demographics: Age, Sex, Pclass
+
 Travel info: Embarked, Ticket, Fare
+
 Family info: SibSp, Parch
 
 🔹 2. Data Cleaning
