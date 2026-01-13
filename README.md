@@ -16,11 +16,11 @@ Target variable: Survived (0 = Did not survive, 1 = Survived)
 
 Features include:
 
-Demographics: Age, Sex, Pclass
+              Demographics: Age, Sex, Pclass
 
-Travel info: Embarked, Ticket, Fare
+              Travel info: Embarked, Ticket, Fare
 
-Family info: SibSp, Parch
+              Family info: SibSp, Parch
 
 🔹 2. Data Cleaning
 
