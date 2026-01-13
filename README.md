@@ -25,17 +25,25 @@ Features include:
 🔹 2. Data Cleaning
 
 Missing values found in: Age, Cabin, and Embarked
+
 Age → Filled with median
+
 Embarked → Filled with most frequent value (mode)
+
 Cabin → Using feature engineering created a new column as has cabin
+
 Removed duplicate rows (if any)
+
 Checked and corrected data types
 
 🔹 3. Univariate Analysis
 
 Survival Count: ~38% passengers survived
+
 Gender: More males than females on board
+
 Pclass: Most passengers were from 3rd class
+
 Age: Majority between 20–40 years
 
 🔹 4. Bivariate Analysis
