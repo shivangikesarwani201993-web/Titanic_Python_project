@@ -49,16 +49,20 @@ Age: Majority between 20–40 years
 🔹 4. Bivariate Analysis
 
 Gender vs Survival:
-🧍‍♀️ Females had a much higher survival rate than males
+
+          🧍‍♀️ Females had a much higher survival rate than males
 
 Class vs Survival:
-🏆 1st class passengers had the highest survival rate
+
+          🏆 1st class passengers had the highest survival rate
 
 Age vs Survival:
-👶 Younger passengers (especially children) were more likely to survive
+
+          👶 Younger passengers (especially children) were more likely to survive
 
 Embarked vs Survival:
-🚢 Passengers from Cherbourg (C) had higher survival chances
+
+          🚢 Passengers from Cherbourg (C) had higher survival chances
 
 🔹 7. Key Insights
 
