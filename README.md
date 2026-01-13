@@ -63,8 +63,11 @@ Embarked vs Survival:
 🔹 7. Key Insights
 
 ✅ Women and children had higher survival rates
+
 ✅ 1st class passengers were more likely to survive
+
 ✅ Higher fare = better chance of survival
+
 ✅ Most passengers embarked from Southampton (S)
 
 🔹 8. Conclusion
